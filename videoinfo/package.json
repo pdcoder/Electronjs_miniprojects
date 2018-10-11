@@ -1,0 +1,26 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "Implementation of electronjs",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdcoder/Videoinfo_electronjs.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdcoder/Videoinfo_electronjs/issues"
+  },
+  "homepage": "https://github.com/pdcoder/Videoinfo_electronjs#readme",
+  "dependencies": {
+    "electron": "^3.0.4",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
