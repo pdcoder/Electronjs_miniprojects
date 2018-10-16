@@ -10,5 +10,5 @@ The $ projects which I have built are :
 <li>Convertify App</li>
 </ul>
 <br>
-Notable menion is the <b><i>Convertify app</i><b>, which I have integrated with React, to perform the function of converting any video files that have been selected, into any of the 5 video formats. Also additionally,
+Notable menion is the <b><i>Convertify app</i></b>, which I have integrated with React, to perform the function of converting any video files that have been selected, into any of the 5 video formats. Also additionally,
 it also shows you the length of the video file. I have used the popular FFMPEG library to achieve this.
